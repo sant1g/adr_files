@@ -1,26 +1,31 @@
-![Logo](img/separator.png)
+![Separator](img/separator.png)
 
 ![Logo](img/head.png)
 
-## Hellbound
+![Hellbound](img/hellbound.png)
+
 * Iron Castle/Battered Lands
 * Enchanted Megaliths
 * Tower of Infinitum*
 
-## Instances
+![Instances](img/instances.png)
+
 * Delusion Chamber
 
-## Ancient Adena 
+![Catacombs](img/catacombs.png)
+
 * Disciples*
 
-## General
+![General](img/general.png)
+
 * Talisman Obtainer
 
-## Libs
+![Libs](img/libs.png)
+
 * Buffer
 * Gatekeeper
 * Shop
 
 _(*) Work in progress._
 
-![Logo](img/separator.png)
+![Separator](img/separator.png)

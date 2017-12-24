@@ -26,6 +26,6 @@
 * Gatekeeper
 * Shop
 
-_(*) Work in progress._
-
 ![Separator](img/separator.png)
+
+_(*) Work in progress._

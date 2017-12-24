@@ -10,9 +10,9 @@
 //  Heine		35653   Floran		36039
 //  Goddard		35654   C Mountain	36077
 //  Rune		35655   Tanor		36114
-//  Schuttgart	35656   Dragonspine	36145
+//  Schuttgart	    35656   Dragonspine	36145
 //  Shanty		35662   Antharas	36177
-//  Southern	35694   Western		36215
+//  Southern	    35694   Western		36215
 //  Hive		35731   Hunter		36253
 //  Valley		35763   Aaru		36290
 //  Ivory		35800   Demon		36322

@@ -1,6 +1,6 @@
-![Logo](../img/separator.png)
+![Logo](img/separator.png)
 
-![Logo](../img/head.png)
+![Logo](img/head.png)
 
 ## Hellbound
 * Iron Castle/Battered Lands
@@ -23,4 +23,4 @@
 
 _(*) Work in progress._
 
-![Logo](../img/separator.png)
+![Logo](img/separator.png)

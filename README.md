@@ -1,31 +1,27 @@
-![Separator](img/separator.png)
+## 🤖 Adrenaline Scripts
 
-![Logo](img/head.png)
-
-![Hellbound](img/hellbound.png)
+### Hellbound
 
 * Iron Castle/Battered Lands
 * Enchanted Megaliths
 * Tower of Infinitum*
 
-![Instances](img/instances.png)
+### Instances
 
 * Delusion Chamber
 
-![Catacombs](img/catacombs.png)
+### Ancient Adena
 
 * Disciples*
 
-![General](img/general.png)
+### General
 
 * Talisman Obtainer
 
-![Libs](img/libs.png)
+### Libs
 
 * Buffer
 * Gatekeeper
 * Shop
-
-![Separator](img/separator.png)
 
 _(*) Work in progress._

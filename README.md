@@ -17,6 +17,8 @@
 ### General
 
 * Talisman Obtainer
+* ~~Gem Dragon Farm~~
+* ~~Auto Delevel~~
 
 ### Libs
 

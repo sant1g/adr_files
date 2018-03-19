@@ -1,6 +1,7 @@
 //  =======================================
 //  Buffs Library
 //  Created by: sant1g - 23/12/17
+//  Last Update: 03/19/2018
 //  =======================================
 //  Important Notes:
 //  Update procedures depending on server.
@@ -9,6 +10,9 @@
 unit libBuff;
 interface
 implementation
+
+var soundEnabled: Integer;
+soundEnabled := 1; // Set 0 to disable
 
 Procedure defaultScheme(Para : String);
 begin

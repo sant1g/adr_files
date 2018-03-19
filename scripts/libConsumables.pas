@@ -1,6 +1,7 @@
 //  =======================================
 //  Consumables Library
 //  Created by: sant1g - 07/12/17
+//  Last Update: 03/19/2018
 //  =======================================
 //  Important Notes:
 //  Update procedures depending on server.
@@ -9,6 +10,9 @@
 unit libConsumables;
 interface
 implementation
+
+var soundEnabled: Integer;
+soundEnabled := 1; // Set 0 to disable
 
 procedure buySoulshots;
 var cantSoulshots: Integer;
@@ -117,21 +121,37 @@ begin
         Delay(5000);
         if soulshot.count<5000 then 
         begin
+            if soundEnabled>0 then
+            begin
+                PlaySound(exepath+'\sounds\sant1g\'+'soulshots'+'.wav'; false);
+            end;
             buySoulshots;
         end; // Check and buy SS
         Delay(700);
         if blessed.count<5000 then 
         begin
+            if soundEnabled>0 then
+            begin
+                PlaySound(exepath+'\sounds\sant1g\'+'spiritshots'+'.wav'; false);
+            end;
             buyBlesseds;
         end; // Check and buy BSS
         Delay(700);
         if manapot.count<300 then 
         begin
+            if soundEnabled>0 then
+            begin
+                PlaySound(exepath+'\sounds\sant1g\'+'mana_potions'+'.wav'; false);
+            end;
             buyManaPot;
         end; // Check and buy Mana Potions
         Delay(700);
         if spiritore.count<5000 then 
         begin
+            if soundEnabled>0 then
+            begin
+                PlaySound(exepath+'\sounds\sant1g\'+'spirit_ore'+'.wav'; false);
+            end;
             buySpiritOre;
         end; // Check and buy Spirit Ore
         Delay(700);
